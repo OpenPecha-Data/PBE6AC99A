@@ -1,0 +1,125 @@
+id: PBE6AC99A
+initial_creation_type: input
+source_metadata:
+  title: Tārā Series
+  language: pt
+  description: 'A series of texts related to the noble saviouress Tārā (sgrol ma):'
+  volume:
+    d8ff103721954aaab3ea41bb0b9c0f5e:
+      title: Introduction to Tārā
+      parent: Introduction
+    ed00a428aff54718babb78745cb70873:
+      title: A Brief History of the Sacred Image of White Tārā
+      parent: History
+    a74526c2ff584229ab261ff36316887f:
+      title: 'The Fount of Longevity: The Chimé Pakmé Nyingtik Lineage Prayer'
+      parent: Lineage Prayers
+    683b6f063fb34227a13264340ed3a340:
+      title: 'The Concentration of Blessings: Red Tārā Lineage Prayer'
+      parent: Lineage Prayers
+    40cf32b183994ea090f1a70816ebab9a:
+      title: 'The Garland of Utpala Flowers: A Prayer to the Masters of the Lineage
+        of Zabtik Drolchok'
+      parent: Lineage Prayers
+    4e2dc0d6e2a141fc9c188f95bd9b2213:
+      title: An Extremely Concise Praise of the Twenty-One Tārās
+      parent: Praise
+    2322ec33351a49a5b547a1954b52e67e:
+      title: The Praise to Tārā with Twenty-One Verses of Homage and The Excellent
+        Benefits of Reciting the Praise
+      parent: Praise
+    7a479e77ebcd41bdb3c1e50692004d35:
+      title: 'The Fulfilment of All Aspirations: In Praise of Noble Tārā'
+      parent: Praise
+    03cf67710f374d0e8f9b322e189b4793:
+      title: 'A Surge of Faith: Verses In Praise of Tārā'
+      parent: Praise
+    bbaebaea7dbc4b8d82d98e7ccc63b120:
+      title: An Outline of The Praise to Tārā with Twenty-One Verses of Homage
+      parent: Praise
+    fddd7f3ce8004b1bb0d1c3a47b9335e8:
+      title: 'Brilliant Rays of Light: A Commentary on the Praise to Tārā'
+      parent: Praise
+    019b0513538a4a55998f0775a71b9f58:
+      title: A Prayer to Tārā
+      parent: Prayers
+    4a58cf4ed16047e6a1881778a0141a57:
+      title: Prayer to Ārya Tārā
+      parent: Prayers
+    1126726bdbd1448a9034a51c7153065b:
+      title: A Concise Supplication to the Most Noble Tārā
+      parent: Prayers
+    788b650100ba40338eec808acc4f5b24:
+      title: 'Prayer to Tārā: A Sevenfold Supplication for Protection'
+      parent: Prayers
+    ff5da544044549b78d24f90d78b6d219:
+      title: A Short Supplication to Tārā
+      parent: Prayers
+    12a24e2c34974f5892c29f7f1f7f4993:
+      title: 'Averting Obstructive Circumstances: A Prayer to Tārā'
+      parent: Prayers
+    2efb079e678f487e86357cba2277949c:
+      title: 'Eliminator of Suffering: A Prayer to the Venerable and Exalted Tārā'
+      parent: Prayers
+    8f851770434e430ab6503a54bab22d61:
+      title: Prayer to Noble White Tārā
+      parent: Prayers
+    eca4b07dd6e84bb0828a439ddc7d754d:
+      title: Prayer to Reverend and Noble Tārā
+      parent: Prayers
+    5b252eedd04a492c9c9cbdf94d46bb23:
+      title: 'The Sweet-Sounding Song that Fulfils All Aims: A Prayer to Noble Tārā
+        Combined with Her Root Mantra'
+      parent: Prayers
+    7c6a5fda85b54d0e97842359b5552a31:
+      title: Prayer to Jetsün Tārā
+      parent: Prayers
+    c9aebcc5ac8549e7967845c1ef1ec978:
+      title: Brief Homage to the Twenty-One Tārās
+      parent: Prayers
+    be37e0a779784b16ab727244276d65b6:
+      title: Prayer to Tārā, Combined with Her Mantra
+      parent: Prayers
+    ef31c663c012496aad0bcdb29237c893:
+      title: Aspiration Prayer from Tārā Sādhana
+      parent: Prayers
+    fe089206095341a1a3a1d74e10784f87:
+      title: A Supplication to Noble Tārā, The Wish-Fulfilling Cornucopia
+      parent: Prayers
+    023bdbba171e445b9316bf2f5091f55b:
+      title: 'Burgeoning Benefit and Happiness: An Aspiration to be Reborn in the
+        Land of Turquoise Leaves'
+      parent: Prayers
+    09223bfacc3b41a6832e7cf9c0031d02:
+      title: A Means to Pacify the Fear of Natural Disasters
+      parent: Sādhanas
+    cdfd9667b2634910ba3b4797e18bd96d:
+      title: Concise White Tārā Sādhana
+      parent: Sādhanas
+    9902092b65b94ce584b2a015fa1b7fdd:
+      title: 'Swift Enchantment of the Three Realms: A Sādhana of Red Tārā'
+      parent: Sādhanas
+    a397b74ef81341a3a5086939cd488bd1:
+      title: 'Adornment of Lord Nāgārjuna’s Wisdom Mind: The Fourfold Maṇḍala Offering
+        to Tārā'
+      parent: Sādhanas
+    b886201c55bf42c1a3264662e580c2ca:
+      title: 'A Shower of Blessings: A Sādhana of Blue-Green Tārā'
+      parent: Sādhanas
+    704300d3773b4efda4e52a60951b664b:
+      title: A Concise Sang Offering to Tārā
+      parent: Sang Offering
+    a011f880a3224a75ae1a7e411bd1e748:
+      title: Seven-Branch Offering to Tārā
+      parent: Seven-Branch
+    742f35064f0b4291b23be660781045d9:
+      title: 'Essence of Accomplishment: A Concise Feast-Offering to Noble Tārā'
+      parent: Tsok
+    4500c54c71e149209afc8553a86fcdbe:
+      title: Windhorse Practice of Tārā
+      parent: Windhorse
+    73b839756f634011aed5ceb705b36f0c:
+      title: Brief Windhorse Practice of Tārā
+      parent: Windhorse
+created_at: '2022-03-01T06:04:43.670810'
+last_modified_at: '2022-03-01T06:04:43.670813'
